@@ -1,0 +1,5 @@
+
+--------Account Details-------- 
+Name:                ... Jade Smith 
+Account Type:        ... VIP 
+Account Balance:     ... 50000.00 
