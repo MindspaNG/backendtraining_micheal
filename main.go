@@ -58,11 +58,12 @@ func createAccountHolder(user map[int64]string) accountHolder {
 			fmt.Println("\n Account Created Successfully!")
 			fmt.Println(acc.format())
 			acc.save()
-
-		case "99":
-			fmt.Println("Thank you!!")
 		}
+
+	case "99":
+		fmt.Println("Thank you!!")
 	}
+
 	return acc
 }
 
