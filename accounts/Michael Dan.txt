@@ -1,0 +1,5 @@
+
+--------Account Details-------- 
+Name:                ... Michael Dan 
+Account Type:        ... Default 
+Account Balance:     ... ₦10000.00 
