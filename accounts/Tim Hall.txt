@@ -1,5 +1,0 @@
-
---------Account Details-------- 
-Name:                ... Tim Hall 
-Account Type:        ... VIP 
-Account Balance:     ... 50000.00 

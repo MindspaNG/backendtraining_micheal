@@ -1,5 +1,0 @@
-
---------Account Details-------- 
-Name:                ... Tom Cali 
-Account Type:        ... VIP 
-Account Balance:     ... 49825.00 

@@ -1,5 +1,0 @@
-
---------Account Details-------- 
-Name:                ... Michael Owusu 
-Account Type:        ... VIP 
-Account Balance:     ... 50000.00 
